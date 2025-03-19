@@ -26,7 +26,7 @@ Para ejecutar las pruebas unitarias manualmente, usa el siguiente comando:
 
 ```bash
 PYTHONPATH=. pytest -v --disable-warnings
-```
+```source venv/bin/activate
 
 ---
 
